@@ -13,7 +13,7 @@ body {
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Jura', sans-serif;
 }
 
 .text-vertical-left {
@@ -275,6 +275,13 @@ footer {
     
 }
 
+.color {
+    color:#f4b006;
+}
 a {
     color:white;
+}
+footer {
+    background: url(../img/jit.jpg)  no-repeat center center scroll;
+    
 }
