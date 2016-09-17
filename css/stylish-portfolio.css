@@ -23,11 +23,15 @@ body {
     color:#F8F8FF;
 }
 
-.text-vertical-left h1 {
+.text-vertical-left h1{
     margin: 0;
-    padding: 25px;
+    padding:20px;
     font-size: 4.5em;
     font-weight: 700;
+}
+.text-vertical-left h3{
+    margin: 0;
+    padding:20px;
 }
 
 /* Custom Button Styles */
@@ -37,6 +41,7 @@ body {
     color: #fff;
     background-color: rgba(0,0,0,0.4);
     border-color: #DAA520;
+    
 }
 
 .btn-dark:hover,
@@ -285,3 +290,4 @@ footer {
     background: url(../img/jit.jpg)  no-repeat center center scroll;
     
 }
+
