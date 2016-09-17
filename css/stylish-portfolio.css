@@ -277,6 +277,8 @@ footer {
 
 .english {
     color:black;
+    background: fixed url(img/tec_kras.jpg) no-repeat;
+	background-size: cover;
     
 }
 
